@@ -10,5 +10,5 @@ https://newalgebra.com
 
 GAME SITES
 https://poki.com
-https://mirror.turbowarp.xyz - use your own project id's you know
+https://mirror.turbowarp.xyz
 https://scratch.mit.ed
