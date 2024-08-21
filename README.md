@@ -2,6 +2,7 @@
 
 SEARCH
 https://google.com
+https://bing.com
 
 NOW.GG
 https://now.gg
